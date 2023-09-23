@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"Australia Central"'
 
-  ###############################################
+  ################################################
   ### Replace <username> with GitHub username ###
   ###############################################
   AZURE_WEBAPP_NAME: mohd198847-ttt-app
